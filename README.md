@@ -37,10 +37,10 @@ high or too low until the user guesses the correct number.
 
 ## LINKS FOR TASKS:
 
-[ Calculator Task ] :(https://github.com/sannan7224/Codsoft/tree/main/Calculator)
+[ Calculator Task ] - (https://github.com/sannan7224/Codsoft/tree/main/Calculator)
 
-[ Tic Tac Toe Game ]:
-()
+[ Tic Tac Toe Game ]-
+(https://github.com/sannan7224/Codsoft/tree/main/Tic%20Tac%20Toe)
 
-[ To-Do List ]:
-()
+[ To-Do List ]-
+(https://github.com/sannan7224/Codsoft/tree/main/To%20Do%20List)
